@@ -1,7 +1,8 @@
-# Students & Companies (S&C) - Software Engineering 2 Project
+# Software Engineering 2 Project - RASD & DD - Students & Companies 
 
-## Course Information
-**Notice:** These projects were done during the Artificial Neural Network and Deep Learning 2025/2026 course during the MSc in Computer Science & Engineering at Politecnico di Milano.
+## Information
+These projects were done during the **Artificial Neural Network and Deep Learning 2024/2025** course during the MSc in Computer Science & Engineering at Politecnico di Milano.
+The deliverables include a Requirements Analysis & Specification Document and a Design Document, as well as the slides used for the final presentation.
 
 # Score
 Final Score: 13.7 / 14
